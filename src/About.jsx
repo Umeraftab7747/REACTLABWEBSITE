@@ -44,10 +44,8 @@ function About() {
           codee2="npm install react-native-vector-icons"
         />
         <PostCodeTemplate
-          // UseTitle="Install react-native-vector-icons"
           UsePara="Link the dependency <0.59"
           codee="npx react-native link react-native-vector-icons"
-          // codee2="npm install react-native-vector-icons"
         />
       </CodeTemplate>
     </motion.div>
