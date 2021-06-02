@@ -60,7 +60,7 @@ function SideNavTest({ userStatus, children }) {
       >
         <div className="col-12">
           <div className="row">
-            <div className="col-xs-10 col-sm-10 col-md-2 col-lg-2 col-xl-2  order-1">
+            <div className="col-xs-10 col-sm-10 col-md-3 col-lg-2 col-xl-2  order-1">
               <div style={{ overflowY: "auto", maxHeight: "89vh" }}>
                 <Navbar collapseOnSelect expand="lg" bg="white" variant="light">
                   <div style={{ display: "flex", flexDirection: "column" }}>
